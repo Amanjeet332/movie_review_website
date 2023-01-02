@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie_review_website/static/css/main.f4f21f73.chunk.css",
+    "main.js": "/movie_review_website/static/js/main.4e88a342.chunk.js",
+    "main.js.map": "/movie_review_website/static/js/main.4e88a342.chunk.js.map",
+    "runtime-main.js": "/movie_review_website/static/js/runtime-main.784da063.js",
+    "runtime-main.js.map": "/movie_review_website/static/js/runtime-main.784da063.js.map",
+    "static/js/2.13f75fc5.chunk.js": "/movie_review_website/static/js/2.13f75fc5.chunk.js",
+    "static/js/2.13f75fc5.chunk.js.map": "/movie_review_website/static/js/2.13f75fc5.chunk.js.map",
+    "static/js/3.45436caf.chunk.js": "/movie_review_website/static/js/3.45436caf.chunk.js",
+    "static/js/3.45436caf.chunk.js.map": "/movie_review_website/static/js/3.45436caf.chunk.js.map",
+    "index.html": "/movie_review_website/index.html",
+    "static/css/main.f4f21f73.chunk.css.map": "/movie_review_website/static/css/main.f4f21f73.chunk.css.map",
+    "static/js/2.13f75fc5.chunk.js.LICENSE.txt": "/movie_review_website/static/js/2.13f75fc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.784da063.js",
+    "static/js/2.13f75fc5.chunk.js",
+    "static/css/main.f4f21f73.chunk.css",
+    "static/js/main.4e88a342.chunk.js"
+  ]
+}
